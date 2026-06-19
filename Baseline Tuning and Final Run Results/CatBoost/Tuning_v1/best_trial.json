@@ -1,0 +1,11 @@
+{
+  "trial": 10,
+  "val_CRPS_log": 0.12992720533899652,
+  "learning_rate": 0.01994942877962023,
+  "iterations": 219,
+  "depth": 7,
+  "l2_leaf_reg": 69.58780103230353,
+  "subsample": 0.6163856702151521,
+  "rsm": 0.5453032172664104,
+  "min_data_in_leaf": 81
+}
